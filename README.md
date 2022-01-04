@@ -5,11 +5,11 @@
 </p>
 
 ---
-### A mobile app for shiba inu owners to train and bond with their companion
+### A mobile app for shiba inu or another dogs owners to train and bond with their companion
 
 ---
-*By Dan Kim*<br><br>
-Welcome to Shibal! Shibal is an Android/iOS cross-platform mobile app built with React Native and Flask maintained in one code base. Shibal offers a one-stop tool for training your shiba inu through detailed modules in the form of online education and socializing with other owners on a social media platform. It is inspired by [DOGO](https://dogo.app/), a popular dog training app.
+*By Felipe Almeida*<br><br>
+Welcome to Shiballpetz! Shiballpetz is an Android/iOS cross-platform mobile app built with React Native and Flask maintained in one code base. Shibal offers a one-stop tool for training your shiba inu through detailed modules in the form of online education and socializing with other owners on a social media platform. It is inspired by [DOGO](https://dogo.app/), a popular dog training app. Our app can receive donates for animals shelters in shiba inu coin.
 
 <p align="center">
       <img src="documentation/readme/welcome_screen.gif">
@@ -25,6 +25,13 @@ Welcome to Shibal! Shibal is an Android/iOS cross-platform mobile app built with
 - Backend - Python | Flask
 - Database - PostgreSQL / AWS S3
 - Styling - JSX
+
+---
+
+## Get Started:
+- Step 1: Change the .env file with your database configuration
+- Step 2: 
+`pip3 install -r requirements.txt`
 
 ---
 
